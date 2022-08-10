@@ -1,0 +1,7 @@
+/**
+ * Write here your global css styles
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
